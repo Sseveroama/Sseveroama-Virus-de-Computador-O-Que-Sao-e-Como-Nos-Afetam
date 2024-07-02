@@ -145,9 +145,9 @@ button {
 .botao-canto-inferior {
   text-align: center;
   position: fixed; /* ou absolute, dependendo do seu caso */
-    bottom: 10px; /* distância do fundo */
-    right: 10px; /* distância da direita */
-    padding: 15px 15px;
+    bottom: 5px; /* distância do fundo */
+    right: 5px; /* distância da direita */
+    padding: 7px 7px;
     background-color: #033a91;
     color: white;
     border: none;
