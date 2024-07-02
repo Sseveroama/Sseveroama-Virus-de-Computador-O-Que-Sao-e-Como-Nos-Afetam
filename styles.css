@@ -147,7 +147,7 @@ button {
   position: fixed; /* ou absolute, dependendo do seu caso */
     bottom: 5px; /* distância do fundo */
     right: 5px; /* distância da direita */
-    padding: 7px 7px;
+    padding: 5px 5px;
     background-color: #033a91;
     color: white;
     border: none;
